@@ -8,5 +8,7 @@ public class Lab005 {
         System.out.println(800*8);
         System.out.println(8+8);
         System.out.println(888/50);
+        System.out.println(88/50);
+
     }
 }
